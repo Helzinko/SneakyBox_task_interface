@@ -1,0 +1,13 @@
+C:\Users\manta\Desktop\SneakyBox\SneakyBox_task_1\SneakyBox_task_1\bin\Debug\netcoreapp3.1\SneakyBox_task_1.exe
+C:\Users\manta\Desktop\SneakyBox\SneakyBox_task_1\SneakyBox_task_1\bin\Debug\netcoreapp3.1\SneakyBox_task_1.deps.json
+C:\Users\manta\Desktop\SneakyBox\SneakyBox_task_1\SneakyBox_task_1\bin\Debug\netcoreapp3.1\SneakyBox_task_1.runtimeconfig.json
+C:\Users\manta\Desktop\SneakyBox\SneakyBox_task_1\SneakyBox_task_1\bin\Debug\netcoreapp3.1\SneakyBox_task_1.runtimeconfig.dev.json
+C:\Users\manta\Desktop\SneakyBox\SneakyBox_task_1\SneakyBox_task_1\bin\Debug\netcoreapp3.1\SneakyBox_task_1.dll
+C:\Users\manta\Desktop\SneakyBox\SneakyBox_task_1\SneakyBox_task_1\bin\Debug\netcoreapp3.1\SneakyBox_task_1.pdb
+C:\Users\manta\Desktop\SneakyBox\SneakyBox_task_1\SneakyBox_task_1\obj\Debug\netcoreapp3.1\SneakyBox_task_1.csprojAssemblyReference.cache
+C:\Users\manta\Desktop\SneakyBox\SneakyBox_task_1\SneakyBox_task_1\obj\Debug\netcoreapp3.1\SneakyBox_task_1.AssemblyInfoInputs.cache
+C:\Users\manta\Desktop\SneakyBox\SneakyBox_task_1\SneakyBox_task_1\obj\Debug\netcoreapp3.1\SneakyBox_task_1.AssemblyInfo.cs
+C:\Users\manta\Desktop\SneakyBox\SneakyBox_task_1\SneakyBox_task_1\obj\Debug\netcoreapp3.1\SneakyBox_task_1.csproj.CoreCompileInputs.cache
+C:\Users\manta\Desktop\SneakyBox\SneakyBox_task_1\SneakyBox_task_1\obj\Debug\netcoreapp3.1\SneakyBox_task_1.dll
+C:\Users\manta\Desktop\SneakyBox\SneakyBox_task_1\SneakyBox_task_1\obj\Debug\netcoreapp3.1\SneakyBox_task_1.pdb
+C:\Users\manta\Desktop\SneakyBox\SneakyBox_task_1\SneakyBox_task_1\obj\Debug\netcoreapp3.1\SneakyBox_task_1.genruntimeconfig.cache
